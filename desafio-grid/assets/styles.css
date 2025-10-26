@@ -58,6 +58,7 @@
     width: 250px;
     height: auto;
     object-fit: contain;
+    margin-buttom: auto;
 }
 
 .grid-item h4 {
@@ -94,4 +95,5 @@
     text-align: center;
     padding: 10px;
     width: 100%;
+
 }   
